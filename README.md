@@ -126,7 +126,7 @@ Register → Login → Dashboard → Manage Records → Logout
 
 ## 📸 Screenshots
 
-![RegisterPage] ( <img width="1920" height="1020" alt="Screenshot 2026-04-05 221903" src="https://github.com/user-attachments/assets/a169971e-8582-48ae-8f9d-bed997755180" />)
+Register Page ( <img width="1920" height="1020" alt="Screenshot 2026-04-05 221903" src="https://github.com/user-attachments/assets/a169971e-8582-48ae-8f9d-bed997755180" />)
 ![Login Page] ( <img width="1920" height="1020" alt="Screenshot 2026-04-05 221915" src="https://github.com/user-attachments/assets/8e4f5ede-d0f5-4ba5-9c4f-985f8023202d" /> )
 ![DashBoard] ( <img width="1920" height="1020" alt="Screenshot 2026-04-05 222117" src="https://github.com/user-attachments/assets/edfc7553-8472-4ad4-97b2-d9d0fe85fcbf" /> ) 
 ![Records] ( <img width="1920" height="1020" alt="Screenshot 2026-04-05 222052" src="https://github.com/user-attachments/assets/46fb3303-4344-42f2-94fa-ed976a1adbcd" />)
